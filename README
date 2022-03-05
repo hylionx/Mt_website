@@ -1,0 +1,13 @@
+Ce projet a était créée au cours de mon année de BTS Services informatiques aux organisations, spécialité: Solutions logicielles et applcations métiers.
+
+Nous étions en groupe de 3 pour le réaliser.
+
+L'objectif était de concevoir un site web dynamique en PHP, qui permet la gestion de réservations de bateaux au sein d'une compagnie maritime.
+
+Nous avons donc créer un espace client ainsi qu'un espace administrateur.
+
+Un client peut avoir accès à l'ensemble de ses réservations
+
+Un administrateur peut ajouter, modifier, supprimer un voyage. Il peut également consulter les statistiques des ventes grace à un graphe.
+
+Ce projet a été conçu en PHP, SQL, MYSQL, Bootstrap, HTML et CSS.
