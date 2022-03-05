@@ -1,0 +1,37 @@
+## VM Debian
+login:ppe
+password:ppe
+
+## MariaDB
+login:root
+mdp:ppe
+
+## GLPI
+glpi
+glpi
+
+## Fichier host à changer (pour les domaines de la VM)
+C:\Windows\System32\drivers\etc\hosts
+10.3.14.192 pma.ppe
+10.3.14.192 marieteam.ppe
+10.3.14.192 glpi.ppe
+
+## URL d'accès
+#Site MarieTeam
+http://marieteam.ppe
+
+#PhpMyAdmin
+http://pma.ppe
+
+#Glpi
+http://glpi.ppe
+
+
+##Pour editer les fichiers en .bmpr
+Télécharger et utiliser -> https://balsamiq.com/
+
+##Pour éditer un MCD sous Jmerise utiliser la version étudiante gratuite
+Télécharger et utiliser -> http://www.jfreesoft.com/JMerise/ (JMerise version Etudiante)
+
+##BDD à importer pour avoir les dates à jour
+Fichier ce trouvant dans "ressources": mt_website_final V4.sql

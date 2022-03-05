@@ -1,0 +1,30 @@
+Compte GLPI
+
+SuperAdministrateur:
+id: Adrien mdp: adrien
+id: Quentin mdp: quentin
+id: Hylia mdp: hylia
+
+Responsable:
+Client1:id: Resp1, mdp:resp1
+Mariteam: id: Resp2 mdp:resp2
+VDev: id: Resp3, mdp:resp3
+
+
+Techniciens:
+id: tech1 mdp: tech1
+id: tech2 mdp: tech2
+
+Utilisateurs:
+MarieTeam: id:user1 mdp: user1
+id:user4 mdp: user4
+
+VDev: id: user2 mdp:user2
+id: user6 mdp:user6
+
+Client: id:user5 mdp:user5 
+id:user3 mdp user3
+
+Compte pour modificier le diagramme de classe en java
+id: hylia.boudahba@gmail.com
+mdp: ppe2018

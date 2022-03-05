@@ -1,0 +1,24 @@
+#resaChart-wrapper, #passagerTotalChart-wrapper, #caChart-wrapper{
+    height: 420px !important;
+    margin-top: -60px;
+}
+
+#resaChart, #passagerTotalChart, #caChart{
+    width: 320px;
+    display: inline-block;
+}
+
+#passagerChart {
+    height:400px;
+    width:100%;
+    min-height:150px;
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+
+#passagerChart button {
+    position:absolute;
+    top:15px;
+    left:10px;
+    z-index:1000;
+}
